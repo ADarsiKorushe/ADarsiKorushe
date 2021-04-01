@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADarsiKorushe&theme=jolly)](https://github.com/ADarsiKorushe/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADarsiKorushe&theme=jolly)](https://github.com/ADarsiKorushe)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADarsiKorushe&layout=compact&theme=jolly)](https://github.com/ADarsiKorushe)
 
 
 <p align="center"> 
