@@ -2,6 +2,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADarsiKorushe&theme=jolly)](https://github.com/ADarsiKorushe/github-readme-stats)
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ADarsiKorushe/count.svg" />
+</p>
+
 <!--
 **ADarsiKorushe/ADarsiKorushe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
